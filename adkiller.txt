@@ -1,0 +1,72 @@
+! Version:2017/9/10/09:40
+! Title: adblock
+! Author:
+! Expires: none
+! Description: 对广告及一些干扰元素进行拦截
+! Homepage:
+
+!-- zhihu.com --!
+zhihu.com##.is-shown.OpenInApp.OpenInAppButton
+zhihu.com##.is-shown.OpenInAppButton
+
+!-- segmentfault.com --!
+segmentfault.com##.app-promotion-bar
+segmentfault.com##.app-open-in-bar
+
+!-- baidu.com --!
+baidu.com##.c-back+div
+baidu.com###banner_call+div
+baidu.com##.openAppCommonTpl-1
+baidu.com##.rmb-carsousel-position-bottom
+baidu.com##.comment-btn
+baidu.com###newList
+baidu.com##.openBox-shareEntry
+baidu.com##.android-wrapper+div
+baidu.com##.metastore
+baidu.com##.related-news
+baidu.com##.redenvelope-small
+baidu.com##.input-hidden+div
+baidu.com##.baiduapp-ad-container
+
+!-- jianshu.com --!
+jianshu.com##.top
+jianshu.com##.app-download-bottom
+jianshu.com##.download-banner
+jianshu.com##.slogan-footer
+jianshu.com##.app-open
+jianshu.com##.download-guide
+jianshu.com##.img-phone
+
+!-- weibo.cn --!
+weibo.cn###J-call-app
+weibo.cn###QQ-login
+weibo.cn##.appTips
+weibo.cn##.tips
+weibo.cn##div[style='background-color: #FFEEDD;']
+
+!-- facebook.com --!
+facebook.com##.m-promo
+facebook.com##._d2r
+
+!-- youtube.com --!
+youtube.com###koya_child_6 > ._mzlb._mdb
+
+-- instagram.com --!
+instagram.com##._p7yg0._a20pl._b426x._5nb98
+instagram.com##._pvdmb
+
+!-- m.shumil.com --!
+m.shumil.com###dqcti
+m.shumil.com###theme_bg+div
+m.shumil.com###theme_bg+div+div
+m.shumil.com###theme_bg+div+div+div
+m.shumil.com##.ad
+
+
+m.luoqiu.com###nr_body > div:first
+n.wasj0716.com
+m.zoxye.com
+m.luoqiu.com##.header:previous
+m.luoqiu.com/js/wap_luoqiu.js
+
+m.baidu.com##.providerBanner
