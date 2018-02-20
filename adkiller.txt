@@ -70,3 +70,4 @@ m.luoqiu.com##.header:previous
 m.luoqiu.com/js/wap_luoqiu.js
 
 m.baidu.com##.providerBanner
+m.baidu.com##.bottomOperateTop
