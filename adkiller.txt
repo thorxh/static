@@ -71,3 +71,4 @@ m.luoqiu.com/js/wap_luoqiu.js
 
 m.baidu.com##.providerBanner
 m.baidu.com##.bottomOperateTop
+m.baidu.com###foot
