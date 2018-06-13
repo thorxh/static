@@ -76,3 +76,5 @@ m.baidu.com###foot
 ms.awqsaged.cn
 
 m.yznn.com##iites
+
+geekbang.org##.mobile-tips
