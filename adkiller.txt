@@ -80,3 +80,6 @@ m.yznn.com##iites
 geekbang.org##.mobile-tips
 
 w3cschool.cn##.appdownload-nav
+
+m.kenshu.cc##center
+m.kenshu.cc##footer
